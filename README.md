@@ -29,4 +29,5 @@
     > Additional info to fill the "Jugendtreff", Ideeneinreichung" and "Zeitplan" landing pages *****/
 
  /****** Protytpe can be found: 
-    >    
+        https://ssturgeon-opit.github.io/gemeinde_webapp/ 
+ ******/   
